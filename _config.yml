@@ -1,0 +1,28 @@
+name: The Fields of Athenry
+favicon: null
+layout_spectrum: 0.5959172991570085
+typography_spectrum: 0.5886492382269353
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3125982345081866
+  lightness: 0.1876374559942633
+  saturation: 0.18705265363678336
+  rhythmicContrast: 0.4231424576137215
+purpose: []
