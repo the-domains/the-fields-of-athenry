@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.irishrugby.ie/ireland/news.php'
 title: Ireland News
-datePublished: '2016-05-31T14:22:58.332Z'
-dateModified: '2016-05-31T14:19:29.410Z'
+datePublished: '2016-05-31T14:24:22.637Z'
+dateModified: '2016-05-31T14:19:28.839Z'
 starred: false
 sourcePath: _posts/2016-05-31-ireland-news.md
 inFeed: true
