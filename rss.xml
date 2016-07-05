@@ -4,8 +4,15 @@
         <description><![CDATA[The Fields of Athenry]]></description>
         <link>https://thegrid.ai/the-fields-of-athenry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jul 2016 20:00:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 20:01:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-fields-of-athenry/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Connacht Rugby Website]]></title>
+            <description><![CDATA[<article><h1>Connacht Rugby Website</h1><p>Connacht Rugby Homepage</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a86a5d3d15bb12ca64946b8d39c474d1/noop.jpg?input=http%3A%2F%2Fwww.connachtrugby.ie%2Fwp-content%2Fuploads%2F2015%2F04%2Finpho_00758665-200x200.jpg"></article>]]></description>
+            <link>http://www.connachtrugby.ie/#team</link>
+            <guid isPermaLink="false">61b18fde-7c28-4d1d-8951-ce36d1a1a8b5</guid>
+            <pubDate>Tue, 05 Jul 2016 20:01:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://assets.lfcimages.com/v2/uploads/media/default/0001/23/thumb_22021_default_news_size_5.jpeg">]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.athenry.ie/</link>
             <guid isPermaLink="false">9c1563b8-bdc0-46de-9fa8-1629e1f9eb70</guid>
             <pubDate>Tue, 31 May 2016 14:22:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Congratulations Connacht Rugby on an incredible Pro-12 season</p>]]></description>
-            <link>https://thegrid.ai/the-fields-of-athenry/congratulations-connacht-rugby-on-an-incredible-pro-12-seaso/index.html</link>
-            <guid isPermaLink="false">4e575cb1-1dbe-4451-8a98-e17511ddd65e</guid>
-            <pubDate>Tue, 31 May 2016 13:16:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
